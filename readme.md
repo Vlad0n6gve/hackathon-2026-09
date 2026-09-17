@@ -12,8 +12,9 @@
 - easyocr (1.7.1)
 - opencv-python
 - numpy (<2)
+- imutils
 
-`pip install easyocr==1.7.1 "numpy<2" opencv-python flask`
+`pip install easyocr==1.7.1 "numpy<2" opencv-python flask imutils`
 
 После этого просто запустите `main.py` и переходите на `http://127.0.0.1:5000/`
  
